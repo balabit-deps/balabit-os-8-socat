@@ -1,3 +1,9 @@
+socat (1.7.3.3-2bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Wed, 06 Jan 2021 13:35:06 +0100
+
 socat (1.7.3.3-2) unstable; urgency=medium
 
   * Make iproute2 self-test build dependency linux-any.
